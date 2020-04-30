@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Relocation Moving Truck Rental</string>
+    <string name="instruct">Select a Truck Size:</string>
+    <string name="ten">10-foot ($19.95)</string>
+    <string name="seventeen">17-foot ($29.95)</string>
+    <string name="twentysix">26-foot ($39.95)</string>
+    <string name="miles">Number of Miles (99¢ ea.)</string>
+    <string name="rent">Rent a Truck!</string>
+</resources>
